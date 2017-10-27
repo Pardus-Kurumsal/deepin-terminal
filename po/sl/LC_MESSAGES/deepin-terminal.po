@@ -1,0 +1,663 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-08 18:00+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: France Lipuzic <france.lipuzic@gmail.com>, 2017\n"
+"Language-Team: Slovenian (https://www.transifex.com/linuxdeepin/teams/3976/sl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#: ../widget/terminal.vala:936
+msgid ""
+"\n"
+"Command has been completed, press ENTER to exit the terminal."
+msgstr ""
+"\n"
+"Ukaz je bil izvršen, za izhod iz terminala pritisnite ENTER."
+
+#: ../widget/appbar.vala:140
+msgid "About"
+msgstr "O programu"
+
+#: ../widget/about_widget.vala:62
+msgid "Acknowledgments"
+msgstr "Zahvala"
+
+#: ../widget/remote_server_dialog.vala:346 ../widget/command_dialog.vala:198
+msgid "Add"
+msgstr "Dodaj"
+
+#: ../widget/command_dialog.vala:127
+msgid "Add Command"
+msgstr "Dodaj Ukaz"
+
+#: ../widget/remote_server_dialog.vala:149
+msgid "Add Server"
+msgstr "Dodaj Strežnik"
+
+#: ../widget/command_panel.vala:303
+msgid "Add command"
+msgstr "Dodaj ukaz"
+
+#: ../widget/remote_panel.vala:574
+msgid "Add server"
+msgstr "Dodaj strežnik"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Address"
+msgstr "Naslov"
+
+#: ../widget/remote_server_dialog.vala:185
+msgid "Address:"
+msgstr "Naslov:"
+
+#: ../widget/preference_slidebar.vala:75 ../widget/preference_slidebar.vala:82
+#: ../widget/preference.vala:322 ../widget/preference.vala:333
+#: ../widget/config_window.vala:324
+msgid "Advanced"
+msgstr "Napredno"
+
+#: ../widget/remote_server_dialog.vala:331
+msgid "Advanced options"
+msgstr "Napredne možnosti"
+
+#: ../widget/remote_server_dialog.vala:420 ../widget/command_dialog.vala:250
+msgid "Are you sure to delete"
+msgstr "Ali ste prepričani, da želite izbrisati?"
+
+#: ../widget/confirm_dialog.vala:132
+msgid "Are you sure to exit?"
+msgstr "Ali ste prepričani, da želite oditi?"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Backspace key"
+msgstr "Vračalka"
+
+#: ../widget/remote_server_dialog.vala:315
+msgid "Backspace key:"
+msgstr "Vračalka:"
+
+#: ../widget/preference_slidebar.vala:56 ../widget/preference.vala:238
+msgid "Basic"
+msgstr "Osnove"
+
+#: ../widget/remote_server_dialog.vala:341
+#: ../widget/remote_server_dialog.vala:421 ../widget/confirm_dialog.vala:132
+#: ../widget/terminal.vala:378 ../widget/terminal.vala:406
+#: ../widget/file_button.vala:69 ../widget/command_dialog.vala:193
+#: ../widget/command_dialog.vala:251
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Certificate"
+msgstr "Certifikat"
+
+#: ../widget/remote_server_dialog.vala:255
+msgid "Certificate:"
+msgstr "Certifikat:"
+
+#: ../widget/terminal.vala:253 ../widget/config_window.vala:302
+msgid "Close other windows"
+msgstr "Zapri druga okna"
+
+#: ../widget/preference.vala:320
+msgid "Close other windows:"
+msgstr "Zapri druga okna:"
+
+#: ../widget/terminal.vala:251 ../widget/config_window.vala:301
+msgid "Close window"
+msgstr "Zapri okno"
+
+#: ../widget/preference.vala:319
+msgid "Close window:"
+msgstr "Zapri okno:"
+
+#: ../widget/config_window.vala:291
+msgid "Close workspace"
+msgstr "Zapri delovno površino"
+
+#: ../widget/preference.vala:310
+msgid "Close workspace:"
+msgstr "Zapri delovno površino:"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Command"
+msgstr "Ukaz"
+
+#: ../widget/remote_server_dialog.vala:289 ../widget/command_dialog.vala:173
+msgid "Command:"
+msgstr "Ukaz:"
+
+#: ../widget/command_dialog.vala:84
+msgid "Content"
+msgstr "Vsebina"
+
+#: ../widget/terminal.vala:223 ../widget/config_window.vala:265
+#: ../widget/entry_menu.vala:16
+msgid "Copy"
+msgstr "Kopiraj"
+
+#: ../widget/terminal.vala:227
+msgid "Copy link"
+msgstr "Kopiraj bližnjico"
+
+#: ../widget/preference.vala:292
+msgid "Copy:"
+msgstr "Kopiraj:"
+
+#: ../widget/preference_slidebar.vala:85 ../widget/preference.vala:336
+msgid "Cursor"
+msgstr "Kurzor"
+
+#: ../widget/preference.vala:358
+msgid "Cursor blink"
+msgstr "Utripanje kazalca"
+
+#: ../widget/preference.vala:192
+msgid "Cursor style:"
+msgstr "Oblika kazalca:"
+
+#: ../widget/terminal.vala:278 ../widget/config_window.vala:318
+#: ../widget/appbar.vala:133
+msgid "Custom commands"
+msgstr "Ukazi po meri"
+
+#: ../widget/preference.vala:330
+msgid "Custom commands:"
+msgstr "Ukazi po meri:"
+
+#: ../widget/entry_menu.vala:15
+msgid "Cut"
+msgstr "Izreži"
+
+#: ../main.vala:175 ../widget/about_widget.vala:82 ../widget/tabbar.vala:603
+msgid "Deepin Terminal"
+msgstr "Terminal Deepin"
+
+#: ../main.vala:176 ../widget/about_widget.vala:49
+msgid ""
+"Deepin Terminal is an advanced terminal emulator with workspace, multiple windows, remote management, quake mode and other features.\n"
+"\n"
+"It sharpens your focus in the world of command line!"
+msgstr ""
+"Terminal Deepin je napreden terminal z delovnim prostorom, več okni, upravljanjem na daljavo, načinom \"quake\" in drugimi lastnostmi.\n"
+"\n"
+"Z njim se lažje osredotočite v svetu ukazov!"
+
+#: ../widget/config_window.vala:271
+msgid "Default size"
+msgstr "Privzeta velikost"
+
+#: ../widget/preference.vala:298
+msgid "Default size:"
+msgstr "Privzeta velikost:"
+
+#: ../widget/remote_server_dialog.vala:422 ../widget/command_dialog.vala:252
+#: ../widget/entry_menu.vala:21
+msgid "Delete"
+msgstr "Izbriši"
+
+#: ../widget/command_dialog.vala:239 ../widget/command_dialog.vala:249
+msgid "Delete command"
+msgstr "Izbriši ukaz"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Delete key"
+msgstr "Izbriši ključ"
+
+#: ../widget/remote_server_dialog.vala:328
+msgid "Delete key:"
+msgstr "Izbriši ključ:"
+
+#: ../widget/remote_server_dialog.vala:409
+#: ../widget/remote_server_dialog.vala:419
+msgid "Delete server"
+msgstr "Izbriši strežnik"
+
+#: ../widget/config_window.vala:317
+msgid "Display shortcuts"
+msgstr "Prikaži bližnjice"
+
+#: ../widget/preference.vala:329
+msgid "Display shortcuts:"
+msgstr "Prikaži bližnjice:"
+
+#: ../main.vala:124
+msgid "Display version"
+msgstr "Prikaži različico"
+
+#: ../widget/terminal.vala:283
+msgid "Download file"
+msgstr "Prenesi datoteko"
+
+#: ../widget/command_dialog.vala:125
+msgid "Edit Command"
+msgstr "Uredi ukaz"
+
+#: ../widget/remote_server_dialog.vala:147
+msgid "Edit Server"
+msgstr "Uredi strežnik"
+
+#: ../widget/remote_server_dialog.vala:102 ../widget/terminal.vala:277
+msgid "Encoding"
+msgstr "Encoding"
+
+#: ../widget/remote_server_dialog.vala:302
+msgid "Encoding:"
+msgstr "Encoding:"
+
+#: ../widget/confirm_dialog.vala:132 ../widget/appbar.vala:141
+msgid "Exit"
+msgstr "Izhod"
+
+#: ../widget/terminal.vala:263
+msgid "Exit fullscreen"
+msgstr "Izhod iz celozaslonskega načina"
+
+#: ../widget/preference.vala:281
+msgid "Font size:"
+msgstr "Velikost pisave:"
+
+#: ../widget/preference.vala:279
+msgid "Font:"
+msgstr "Pisava:"
+
+#: ../widget/preference.vala:382 ../widget/terminal.vala:265
+msgid "Fullscreen"
+msgstr "Celozaslonski način"
+
+#: ../widget/preference.vala:328
+msgid "Fullscreen:"
+msgstr "Celozaslonski način:"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Group"
+msgstr "Skupina"
+
+#: ../widget/remote_server_dialog.vala:271
+msgid "Group:"
+msgstr "Skupina:"
+
+#: ../widget/appbar.vala:138
+msgid "Help"
+msgstr "Pomoč"
+
+#: ../widget/preference.vala:386
+msgid "Hide quake window after lost focus"
+msgstr "Skrij quake okno, ko izgubiš fokus"
+
+#: ../widget/terminal.vala:249 ../widget/config_window.vala:296
+msgid "Horizontal split"
+msgstr "Vodoravna razdelitev"
+
+#: ../widget/preference.vala:314
+msgid "Horizontal split:"
+msgstr "Vodoravna razdelitev:"
+
+#: ../widget/preference_slidebar.vala:59 ../widget/preference.vala:241
+msgid "Interface"
+msgstr "Vmesnik"
+
+#: ../widget/config_window.vala:273
+msgid "Jump to next command"
+msgstr "Skoči na naslednji ukaz"
+
+#: ../widget/preference.vala:299
+msgid "Jump to next command:"
+msgstr "Skoči na naslednji ukaz:"
+
+#: ../widget/config_window.vala:274
+msgid "Jump to previous command"
+msgstr "Skoči na prejšnji ukaz"
+
+#: ../widget/preference.vala:300
+msgid "Jump to previous command:"
+msgstr "Skoči na prejšnji ukaz:"
+
+#: ../widget/preference.vala:381
+msgid "Maximize"
+msgstr "Povečaj"
+
+#: ../widget/command_dialog.vala:84
+msgid "Name"
+msgstr "Ime"
+
+#: ../widget/command_dialog.vala:160
+msgid "Name:"
+msgstr "Ime:"
+
+#: ../widget/appbar.vala:131
+msgid "New window"
+msgstr "Novo okno"
+
+#: ../widget/terminal.vala:257 ../widget/config_window.vala:290
+msgid "New workspace"
+msgstr "Nova delovna površina"
+
+#: ../widget/preference.vala:309
+msgid "New workspace:"
+msgstr "Nov delovni prostor:"
+
+#: ../widget/config_window.vala:292
+msgid "Next workspace"
+msgstr "Naslednja delovna površina"
+
+#: ../widget/preference.vala:312
+msgid "Next workspace:"
+msgstr "Naslednji delovni prostor:"
+
+#: ../widget/preference.vala:380
+msgid "Normal window"
+msgstr "Normalno okno"
+
+#: ../widget/preference.vala:132
+msgid "Opacity:"
+msgstr "Prozornost:"
+
+#: ../widget/terminal.vala:240 ../widget/config_window.vala:267
+msgid "Open"
+msgstr "Odpri"
+
+#: ../widget/preference.vala:294
+msgid "Open:"
+msgstr "Odpri:"
+
+#: ../widget/remote_server_dialog.vala:269
+#: ../widget/remote_server_dialog.vala:279
+#: ../widget/remote_server_dialog.vala:288
+msgid "Optional"
+msgstr "Po želji"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Password"
+msgstr "Geslo"
+
+#: ../widget/remote_server_dialog.vala:241
+msgid "Password:"
+msgstr "Geslo:"
+
+#: ../widget/terminal.vala:233 ../widget/config_window.vala:266
+#: ../widget/entry_menu.vala:18
+msgid "Paste"
+msgstr "Prilepi"
+
+#: ../widget/preference.vala:293
+msgid "Paste:"
+msgstr "Prilepi:"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Path"
+msgstr "Pot"
+
+#: ../widget/remote_server_dialog.vala:280
+msgid "Path:"
+msgstr "Pot:"
+
+#: ../widget/shortcut_entry.vala:124
+msgid "Please enter a new shortcut"
+msgstr "Prosim, vnesite novo bližnjico"
+
+#: ../widget/remote_server_dialog.vala:194
+msgid "Port:"
+msgstr "Vrata:"
+
+#: ../widget/config_window.vala:293
+msgid "Previous workspace"
+msgstr "Prejšnja delovna površina"
+
+#: ../widget/preference.vala:311
+msgid "Previous workspace:"
+msgstr "Prejšnja delovna površina:"
+
+#: ../widget/confirm_dialog.vala:132
+msgid "Programs are still running in terminal"
+msgstr "Programi še tečejo v terminalu"
+
+#: ../main.vala:169
+msgid "Quake mode"
+msgstr "Način \"Quake\""
+
+#: ../widget/terminal.vala:279 ../widget/config_window.vala:319
+#: ../widget/appbar.vala:134
+msgid "Remote management"
+msgstr "Upravljanje na daljavo"
+
+#: ../widget/preference.vala:331
+msgid "Remote management:"
+msgstr "Upravljanje na daljavo:"
+
+#: ../widget/remote_server_dialog.vala:181
+#: ../widget/remote_server_dialog.vala:191
+#: ../widget/remote_server_dialog.vala:226 ../widget/command_dialog.vala:159
+#: ../widget/command_dialog.vala:172
+msgid "Required"
+msgstr "Zahtevano"
+
+#: ../widget/preference.vala:392
+msgid "Restore default settings"
+msgstr "Obnovi privzete nastavitve"
+
+#: ../main.vala:182
+msgid ""
+"Run '%s --help' to view a full list of available command line pass_options"
+msgstr ""
+"Ukaz '%s --help' vam prikaže celoten seznam možnih ukazov pass_options"
+
+#: ../main.vala:151 ../main.vala:160
+msgid "Run a program in the terminal"
+msgstr "Zaženi program v terminalu"
+
+#: ../widget/remote_server_dialog.vala:344 ../widget/command_dialog.vala:196
+msgid "Save"
+msgstr "Shrani"
+
+#: ../widget/preference_slidebar.vala:88 ../widget/preference.vala:360
+msgid "Scroll"
+msgstr "Miškin kolešček"
+
+#: ../widget/preference.vala:366
+msgid "Scroll on keystroke"
+msgstr "Premikaj se s tipkovnico"
+
+#: ../widget/preference.vala:367
+msgid "Scroll on output"
+msgstr "Pomakni se na izhod"
+
+#: ../widget/terminal.vala:269 ../widget/search_entry.vala:64
+#: ../widget/search_entry.vala:67 ../widget/config_window.vala:268
+msgid "Search"
+msgstr "Išči"
+
+#: ../widget/preference.vala:295 ../widget/remote_panel.vala:471
+#: ../widget/command_panel.vala:201
+msgid "Search:"
+msgstr "Iskanje:"
+
+#: ../widget/terminal.vala:407 ../widget/file_button.vala:71
+msgid "Select"
+msgstr "Izberi"
+
+#: ../widget/config_window.vala:272 ../widget/entry_menu.vala:24
+msgid "Select all"
+msgstr "Izberi vse"
+
+#: ../widget/preference.vala:301
+msgid "Select all:"
+msgstr "Izberi vse:"
+
+#: ../widget/terminal.vala:405
+msgid "Select directory to save download file"
+msgstr "Izberite direktorij, kamor želite shraniti preneseno datoteko:"
+
+#: ../widget/terminal.vala:376
+msgid "Select file to upload"
+msgstr "Izberi datoteko za nalaganje"
+
+#: ../widget/config_window.vala:299
+msgid "Select left window"
+msgstr "Izberi levo okno"
+
+#: ../widget/preference.vala:317
+msgid "Select left window:"
+msgstr "Izberi levo okno:"
+
+#: ../widget/config_window.vala:298
+msgid "Select lower window"
+msgstr "Izberi spodnje okno"
+
+#: ../widget/preference.vala:316
+msgid "Select lower window:"
+msgstr "Izberi spodnje okno:"
+
+#: ../widget/config_window.vala:300
+msgid "Select right window"
+msgstr "Izberi desno okno"
+
+#: ../widget/preference.vala:318
+msgid "Select right window:"
+msgstr "Izberi desno okno:"
+
+#: ../widget/file_button.vala:67
+msgid "Select the private key file"
+msgstr "Izberi zasebno datoteko s ključem"
+
+#: ../widget/config_window.vala:297
+msgid "Select upper window"
+msgstr "Izberi zgornje okno"
+
+#: ../widget/preference.vala:315
+msgid "Select upper window:"
+msgstr "Izberi zgornje okno:"
+
+#: ../widget/config_window.vala:294
+msgid "Select workspace"
+msgstr "Izberi delovno površino"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Server name"
+msgstr "Ime strežnika"
+
+#: ../widget/remote_server_dialog.vala:182
+msgid "Server name:"
+msgstr "Ime strežnika:"
+
+#: ../main.vala:133
+msgid "Set the terminal startup directory"
+msgstr "Nastavi zagonski direktorij za terminal"
+
+#: ../main.vala:115
+msgid "Set the terminal window mode"
+msgstr "Nastavi okenski način za terminal"
+
+#: ../widget/terminal.vala:287 ../widget/appbar.vala:136
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: ../widget/preference_slidebar.vala:66 ../widget/preference.vala:283
+#: ../widget/command_dialog.vala:84
+msgid "Shortcuts"
+msgstr "Bližnjice"
+
+#: ../widget/command_dialog.vala:181
+msgid "Shortcuts:"
+msgstr "Bližnjice:"
+
+#: ../widget/config_window.vala:316
+msgid "Switch fullscreen"
+msgstr "Preklopi celozaslonski način"
+
+#: ../widget/terminal.vala:275 ../widget/appbar.vala:132
+msgid "Switch theme"
+msgstr "Preklopi temo"
+
+#: ../widget/preference_slidebar.vala:69 ../widget/preference.vala:286
+#: ../widget/config_window.vala:279
+msgid "Terminal"
+msgstr "Terminal"
+
+#: ../widget/terminal.vala:419
+msgid "Type path for download file"
+msgstr "Tip poti za preneseno datoteko"
+
+#: ../widget/terminal.vala:380
+msgid "Upload"
+msgstr "Naloži"
+
+#: ../widget/terminal.vala:282
+msgid "Upload file"
+msgstr "Naloži datoteko"
+
+#: ../widget/preference.vala:383
+msgid "Use on starting:"
+msgstr "Uporabi na začetku:"
+
+#: ../widget/remote_server_dialog.vala:102
+msgid "Username"
+msgstr "Uporabniško ime"
+
+#: ../widget/remote_server_dialog.vala:227
+msgid "Username:"
+msgstr "Uporabniško ime:"
+
+#: ../widget/about_widget.vala:86
+msgid "Version:"
+msgstr "Različica:"
+
+#: ../widget/terminal.vala:250 ../widget/config_window.vala:295
+msgid "Vertical split"
+msgstr "Navpična razdelitev"
+
+#: ../widget/preference.vala:313
+msgid "Vertical split:"
+msgstr "Navpična razdelitev:"
+
+#: ../widget/remote_panel.vala:225
+msgid ""
+"Welcome to Deepin Terminal, please make sure that rz and sz commands have "
+"been installed in the server before right clicking to upload and download "
+"files."
+msgstr ""
+"Dobrodošli v Terminal Deepin. Prosim, prepričajte se, da so bili \"rz\" in "
+"\"sz\" ukazi nameščeni v strežnik, preden desno kliknete za nalaganje in "
+"prenašanje datotek."
+
+#: ../widget/preference_slidebar.vala:91 ../widget/preference.vala:369
+msgid "Window"
+msgstr "Okno"
+
+#: ../widget/preference_slidebar.vala:72 ../widget/preference.vala:303
+#: ../widget/config_window.vala:307
+msgid "Workspace"
+msgstr "Delovna površina"
+
+#: ../widget/config_window.vala:269
+msgid "Zoom in"
+msgstr "Povečaj"
+
+#: ../widget/preference.vala:296
+msgid "Zoom in:"
+msgstr "Povečaj:"
+
+#: ../widget/config_window.vala:270
+msgid "Zoom out"
+msgstr "Pomanjšaj"
+
+#: ../widget/preference.vala:297
+msgid "Zoom out:"
+msgstr "Pomanjšaj:"
+
+#: ../widget/terminal.vala:539 ../widget/terminal.vala:962
+msgid "deepin"
+msgstr "deepin"
